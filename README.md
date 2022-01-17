@@ -14,10 +14,14 @@
 一、基础教程
 - [ ] https://github.com/in28minutes/devops-master-class
 
-九、论坛社区
+二、论坛社区
 - [ ] 中国DevOps社区
 - [ ] DevOps时代社区
 - [ ] 高效运维社区
+
+九、其他资产
+- [ ] https://github.com/magnologan/gha-devsecops
+- [ ] https://github.com/we45/ThreatPlaybook
 
 ## 02-DevOps书籍
 
