@@ -22,6 +22,7 @@
 九、其他资产
 - [ ] https://github.com/magnologan/gha-devsecops
 - [ ] https://github.com/we45/ThreatPlaybook
+- [ ] http://blog.nsfocus.net/devopsdevops-nsfocus
 
 ## 02-DevOps书籍
 
