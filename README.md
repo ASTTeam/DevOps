@@ -1,17 +1,19 @@
-# DevOps
+# DevOps-开发和运营
 
-本项目用来收集整理学习DevOps相关内容。DevOps-Software development (Dev) and IT operations (Ops).
+本项目用来收集整理学习DevOps相关内容，包括DevOps的理念产品以及衍生的工具思路等。DevOps是一种方法，是将开发和运营紧密结合起来的方法。DevOps-Software development (Dev) and IT operations (Ops).
 
-本项目创建于2022年1月16日，最近的一次更新时间为2022年1月17日。
+本项目创建于2022年1月16日，最近的一次更新时间为2022年1月24日。作者：[0e0w](https://github.com/0e0w/DevOps)
 
-- [01-DevOps资源]()
-- [02-DevOps书籍]()
-- [03-DevOps产品]()
-- [04-DevSecOps]()
+- [01-DevOps资源](https://github.com/0e0w/DevOps#01-devops%E8%B5%84%E6%BA%90)
+- [02-DevOps书籍](https://github.com/0e0w/DevOps#02-devops%E4%B9%A6%E7%B1%8D)
+- [03-DevOps工具](https://github.com/0e0w/DevOps#03-devops%E5%B7%A5%E5%85%B7)
+- [04-DevOps产品](https://github.com/0e0w/DevOps#04-devops%E4%BA%A7%E5%93%81)
+- [05-DevOps安全](https://github.com/0e0w/DevOps#05-devops%E5%AE%89%E5%85%A8)
+- [06-DevOps参考](https://github.com/0e0w/DevOps#06-devops%E5%8F%82%E8%80%83)
 
 ## 01-DevOps资源
 
-一、基础教程
+一、基础资源
 - [ ] https://github.com/in28minutes/devops-master-class
 
 二、论坛社区
@@ -19,12 +21,15 @@
 - [ ] DevOps时代社区
 - [ ] 高效运维社区
 
-九、其他资产
+九、其他资源
 - [ ] https://github.com/magnologan/gha-devsecops
 - [ ] https://github.com/we45/ThreatPlaybook
 - [ ] http://blog.nsfocus.net/devopsdevops-nsfocus
 
 ## 02-DevOps书籍
+
+- https://dev.to/hi_artem/5-devops-books-to-read-for-free-3860
+- https://github.com/jidibinlin/Free-DevOps-Books-1
 
 一、DevOps
 - [ ] [《DevOps实践指南》](https://item.jd.com/12350780.html)@刘征等译
@@ -51,15 +56,113 @@
 - [ ] [《DevSecOps》](https://item.jd.com/10028188284125.html)@Glenn Wilson
 - [ ] [《Learning Devsecops》](https://item.jd.com/10040874594859.html)@Ribeiro
 
-## 03-DevOps产品
+## 03-DevOps工具
+
+- https://www.qentelli.com/thought-leadership/insights/devops-tools
+
+一、项目管理和协作工具
+
+- Microsoft teams
+- Slack
+- JIRA
+
+二、代码管理工具
+
+- GitLab
+- Github
+- BitBucket 
+
+三、持续集成工具
+
+- Jenkins
+
+四、质量测试工具
+
+- Junit
+- Selenium
+- DATADOG
+
+五、监控管理工具
+
+- New Relic
+- Grafana
+
+六、持续部署工具
+
+- Octopus Deploy
+- Spinnaker
+
+七、配置管理工具
+
+- Chef
+- Ansible
+- Puppet
+- Terraform
+
+八、容器管理工具
+
+- Docker
+- K8s
+- Mesos
+
+九、应用程序性能监视工具
+
+- Prometheus
+- Dynatrace
+- AppDynamics
+
+十、部署和服务器监控工具
+
+- Splunk
+- Datadog
+- Sensu
+
+十一、CI/部署自动化工具
+
+- Bamboo
+- Jenkins
+- IBM UrbanCode
+
+十二、测试自动化工具
+
+- Test.ai
+- Ranorex
+- Selenium
+
+十三、工件管理工具
+
+- Sonatype NEXUS
+- JFRog Artifactory
+- CloudRepo
+
+十四、无代码测试自动化工具
+
+- AccelQ
+- Appvance
+- Testim.io
+
+## 04-DevOps产品
 
 - https://coding.net
 - 阿里云效
 - Gitee https://gitee.com/enterprises
 
-## 04-DevSecOps
+## 05-DevOps安全
 
-- https://github.com/devsecops/awesome-devsecops
-- https://github.com/XmirrorSecurity
 - https://about.gitlab.cn
+- https://github.com/XmirrorSecurity
 - https://github.com/magnologan/gha-devsecops
+- https://github.com/devsecops/awesome-devsecops
+
+## 06-DevOps参考
+
+- https://zh.wikipedia.org/wiki/DevOps
+- https://devops.com
+- https://cloud.google.com/devops
+- https://jfrog.com/devops-tools/what-is-devops
+- https://software.af.mil/training/devops
+- https://www.bmc.com/it-solutions/devops.html
+- https://www.guru99.com/devops-tutorial.html
+- https://raygun.com/blog/best-devops-tools
+- https://www.zhihu.com/question/58702398
+- https://azure.microsoft.com/en-us/overview/what-is-devops
