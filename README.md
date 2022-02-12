@@ -2,7 +2,7 @@
 
 本项目用来收集整理学习DevOps相关内容，包括DevOps的理念产品以及衍生的工具思路等。DevOps是一种方法，是将开发和运营紧密结合起来的方法。DevOps-Software development (Dev) and IT operations (Ops).
 
-本项目创建于2022年1月16日，最近的一次更新时间为2022年2月3日。作者：[0e0w](https://github.com/0e0w/DevOps)
+本项目创建于2022年1月16日，最近的一次更新时间为2022年2月12日。作者：[0e0w](https://github.com/0e0w/DevOps)
 
 - [01-DevOps资源](https://github.com/0e0w/DevOps#01-devops%E8%B5%84%E6%BA%90)
 - [02-DevOps书籍](https://github.com/0e0w/DevOps#02-devops%E4%B9%A6%E7%B1%8D)
@@ -39,6 +39,8 @@
 - [ ] https://raygun.com/blog/best-devops-tools
 - [ ] https://www.zhihu.com/question/58702398
 - [ ] https://azure.microsoft.com/en-us/overview/what-is-devops
+- [ ] https://github.com/theonedev/onedev
+- [ ] https://github.com/naiba/nocd
 
 ## 02-DevOps书籍
 
