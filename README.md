@@ -117,12 +117,13 @@
 - DATADOG
 
 五、监控管理工具
-- New Relic
+- NewRelic
 - Grafana
 
 六、持续部署工具
-- Octopus Deploy
 - Spinnaker
+- Octopus Deploy
+- Argo CD
 
 七、配置管理工具
 - Chef
@@ -147,12 +148,12 @@
 十一、CI/部署自动化工具
 - Bamboo
 - Jenkins
+- TeamCity
 - IBM UrbanCode
 
 十二、测试自动化工具
 - Test.ai
 - Ranorex
-- Selenium
 
 十三、工件管理工具
 - Sonatype NEXUS
@@ -170,6 +171,15 @@
 - ELK
 - BigQuery
 
+十六、威胁和漏洞管理类别
+
+- TwistLock
+- Sysdig
+- Anchore
+- JMeter
+- JUnit
+- SonarQube
+
 ## 04-DevOps产品
 
 - https://coding.net
@@ -178,11 +188,7 @@
 
 ## 05-DevOps安全
 
-- https://about.gitlab.cn
-- https://github.com/XmirrorSecurity
-- https://github.com/magnologan/gha-devsecops
-- https://github.com/devsecops/awesome-devsecops
-- https://github.com/sottlmarek/DevSecOps
+- https://github.com/DevSecOpsTeam/DevSecOps
 
 ## 06-DevOps老师
 
