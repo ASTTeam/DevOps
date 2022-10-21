@@ -1,5 +1,7 @@
 # DevOps-开发和运营
 
+![DevOps](https://socialify.git.ci/DevSecOpsTeam/DevOps/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+
 本项目用来收集整理学习DevOps相关内容，包括DevOps的理念产品以及衍生的工具思路等。DevOps是一种方法，是将开发和运营紧密结合起来的方法。DevOps-Software development (Dev) and IT operations (Ops).
 
 本项目创建于2022年1月16日，最近的一次更新时间为2022年10月16日。作者：[0e0w](https://github.com/0e0w/DevOps)
@@ -195,3 +197,5 @@
 ## 06-DevOps老师
 
 - DevOps时代社区联合发起人景韵
+
+![Stargazers over time](https://starchart.cc//DevSecOpsTeam/DevOps.svg)
