@@ -107,6 +107,8 @@
 - GitLab
 - Github
 - BitBucket 
+- SVN
+- Gerrit
 
 三、持续集成工具
 - Jenkins
