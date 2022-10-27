@@ -4,7 +4,7 @@
 
 本项目用来收集整理学习DevOps相关内容，包括DevOps的理念产品以及衍生的工具思路等。DevOps是一种理念，是一种实践，是一种工具，是将开发和运营紧密结合起来的方法。DevOps-Software development (Dev) and IT operations (Ops).
 
-本项目创建于2022年1月16日，最近的一次更新时间为2022年10月26日。作者：[0e0w](https://github.com/0e0w/DevOps)
+本项目创建于2022年1月16日，最近的一次更新时间为2022年10月27日。作者：[0e0w](https://github.com/0e0w/DevOps)
 
 - [0x01-DevOps资源](https://github.com/0e0w/DevOps#0x01-devops%E8%B5%84%E6%BA%90)
 - [0x02-DevOps书籍](https://github.com/0e0w/DevOps#0x02-devops%E4%B9%A6%E7%B1%8D)
@@ -21,13 +21,14 @@
 - [ ] https://github.com/in28minutes/devops-master-class
 - [ ] https://github.com/Tikam02/DevOps-Guide
 - [ ] https://github.com/bregman-arie/devops-exercises
+- [ ] https://github.com/bregman-arie/devops-resources
 - [ ] https://github.com/ripienaar/free-for-dev
+- [ ] https://github.com/sottlmarek/DevSecOps
 
 二、书籍资源
 
 - https://dev.to/hi_artem/5-devops-books-to-read-for-free-3860
 - https://github.com/jidibinlin/Free-DevOps-Books-1
-
 - [ ] [《DevOps实践指南》](https://item.jd.com/12350780.html)@刘征等译
 - [ ] [《DevOps悖论》](https://item.jd.com/12350780.html)@中国DevOps社区译
 - [ ] [《DevOps入门与实践》](https://item.jd.com/52567206446.html)@刘斌译
@@ -46,6 +47,7 @@
 - [ ] [《DevOps权威指南 IT效能新基建》](https://item.jd.com/13049179.html)@顾黄亮
 - [ ] [《Effective DevOps》](https://item.jd.com/26651654880.html)@JenniferDavis
 - [ ] [《Python for DevOps》](https://item.jd.com/13207328.html)@NoahGift
+- [ ] https://github.com/phodal/ledge
 
 三、学术论文
 
@@ -92,6 +94,16 @@
 - [ ] https://github.com/iopsgroup/imoocc
 - [ ] https://github.com/cider-security-research/cicd-goat
 - [ ] https://github.com/dev-sec
+- [ ] https://github.com/chassing/linux-sysadmin-interview-questions
+- [ ] https://github.com/bytebase/bytebase
+- [ ] https://github.com/ovh/cds
+- [ ] https://github.com/learntocloud/learn-to-cloud
+- [ ] https://github.com/opendevops-cn/opendevops
+- [ ] https://github.com/guohongze/adminset
+- [ ] https://github.com/inspec/inspec
+- [ ] https://github.com/dreamans/syncd
+- [ ] https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS
+- [ ] https://github.com/ixrjog/opscloud4
 
 ## 0x02-DevOps文化
 
@@ -122,6 +134,7 @@ DevOps的实践需要文化理念和心态上的转变。
 ### 03-持续集成
 
 - Jenkins
+- https://github.com/Tencent/bk-ci
 
 ### 04-质量测试
 
@@ -207,6 +220,7 @@ DevOps的实践需要文化理念和心态上的转变。
 ### 17-其他工具
 
 - https://github.com/dokku/dokku
+- https://github.com/hashicorp/terraform
 
 ## 0x04-DevOps产品
 
